@@ -215,7 +215,6 @@ Sau đó mở công cụ phát triển (development tool) và chạy ứng dụn
     *	White Theme.
     *	Grey Theme.
 ### **Hướng dẫn và trợ giúp người dùng**
-*	Phần trợ giúp sẽ bao gồm phần trả lời các câu hỏi cơ bản và hướng dẫn sử dụng một số tính năng cho người dùng.
 *	Cho phép người dùng gửi mail phản hồi/ báo lỗi đến nhóm phát triển ứng dụng.
 ### **Truy cập liên kết**
 *	Truy cập tới trang github của ứng dụng.

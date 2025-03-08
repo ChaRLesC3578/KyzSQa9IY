@@ -41,5 +41,4 @@ _Giving names of recruiters or interviewers_
 It was planed that this would be allowed, since I wanted to make the write-up as complete as possible. However, during private testing, a concern was raised that this could cause people to be uncomfortable, and indeed this does not appear to be allowed by Reddit at least. I considered the possibility of allowing only first names, but then it was very easy to uniquely identify the person through a simple search on the internet. Hence I've decided to disallow giving names of anyone that isn't the applicant as a result (unless the name is of a relatively high rank as in [Visa](2021-22/Visa/Software%20Engineering%20and%20Testing%20Graduate.md)). Not my choice really; I just didn't want to run into any unintended trouble. Using placeholders such as (recruiter) in-place is fine. 
 
 _Experiences that do not go here_
-
 Perfectly generic failures (that is, you got kicked out right after application). There needs to be _something_ beyond "I applied and failed". 

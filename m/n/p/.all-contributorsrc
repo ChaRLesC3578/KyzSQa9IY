@@ -6,7 +6,6 @@
   "files": ["README.md"],
   "imageSize": 100,
   "commit": false,
-  "commitConvention": "angular",
   "contributors": [
     {
       "login": "Xunnamius",

@@ -16,7 +16,6 @@ max_line_length = 79
 
 [doc/**.rst]
 max_line_length = 79
-
 [Dockerfile]
 indent_size = 2
 

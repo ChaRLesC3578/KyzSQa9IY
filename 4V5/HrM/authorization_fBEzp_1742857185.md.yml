@@ -2,7 +2,6 @@ inherit_from: .rubocop_ignore_git.yml
 
 AllCops:
   TargetRubyVersion: 3.1
-  SuggestExtensions: false
   NewCops: disable
 
 Gemspec/DeprecatedAttributeAssignment:

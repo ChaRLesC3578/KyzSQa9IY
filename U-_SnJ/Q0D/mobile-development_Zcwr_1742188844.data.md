@@ -4,7 +4,6 @@
 
 * Initial release
 
-### Version 0.9.2
 
 * Fix forked Workflow invoking didComplete multiple times
 

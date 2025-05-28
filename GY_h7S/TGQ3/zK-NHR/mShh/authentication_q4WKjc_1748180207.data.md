@@ -1550,7 +1550,6 @@ multiple times without any issue. Follow the steps below to run the script:
     ALTER TABLE passwordless_users
       ADD CONSTRAINT passwordless_users_pkey 
         PRIMARY KEY (app_id, user_id);
-
     ALTER TABLE passwordless_users
       DROP CONSTRAINT IF EXISTS passwordless_users_email_key;
 

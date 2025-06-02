@@ -65,7 +65,6 @@ Spearbit Tips is a weekly initiative to introduce general recommendations for se
 | --- | --- | --- | --- |
 | 1 | **Reviewing Optimized Yul** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1661151785053192192?s=20) |
 | 2 | **Proper Code Specification** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1661786772072804361?s=20) |
-| 3 | **Clearly Defined Natspec** | **Hickup** | [Write-up](https://twitter.com/SpearbitDAO/status/1665800702122250241?s=20) |
 | 4 | **Verification Patterns** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
 | 5 | **In-line Comments** | **Hickup** | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
 | 6 | **Human Error and Test Coverage** | **Noah Marconi** | [Write-up](https://twitter.com/SpearbitDAO/status/1674505243957026818?s=20) |

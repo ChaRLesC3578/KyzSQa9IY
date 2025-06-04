@@ -102,7 +102,6 @@ dockers:
       - build
     dockerfile: docker/Dockerfile.goreleaser.arm64
     extra_files:
-      - etc
       - integrations
     use: buildx
     build_flag_templates:
